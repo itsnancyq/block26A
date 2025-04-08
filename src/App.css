@@ -1,6 +1,7 @@
+
 #root {
   max-width: 1280px;
-  margin: 0 auto; */
+  margin: 0 auto;
   padding: 2rem;
   text-align: center;
 }
@@ -12,8 +13,7 @@ div {
 }
 
 button {
-  width: auto; */
-  transition: filter 300ms;
+  width: auto; 
 }
 
 button:hover {
